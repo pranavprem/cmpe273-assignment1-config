@@ -1,4 +1,5 @@
 {
-    "welcome_message": "Hello from Dockerized Flask App"
+    "welcome_message": "Hello from Dockerized Flask App",
+    "something": "test"
 }
 
