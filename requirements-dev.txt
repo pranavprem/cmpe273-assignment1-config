@@ -1,0 +1,5 @@
+# Checkers only. This repo has no application runtime.
+# Requires Python 3.12+ (see .python-version).
+pytest==9.1.1
+PyYAML==6.0.3
+ruff==0.17.0
