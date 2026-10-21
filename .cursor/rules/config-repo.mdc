@@ -1,0 +1,6 @@
+---
+description: Config-only companion repo for the CMPE 273 Flask assignment
+alwaysApply: true
+---
+
+Read AGENTS.md before editing. Root files named `{environment}-config.json` or `{environment}-config.yml` are the product. Leave their bytes alone, leave `dev-config.yml` deleted, and do not add a server or a license.
